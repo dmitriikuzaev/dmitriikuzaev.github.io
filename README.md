@@ -1,5 +1,3 @@
-# Дмитрий Кузаев
-
 ### Ссылки:
 * [github](https://github.com/dmitriikuzaev)
 
