@@ -3,10 +3,10 @@
 ### Ссылки:
 * [github](https://github.com/dmitriikuzaev)
 
-### Работы
+### Работы 
+##### Верстка
 * [biznes-gorod](https://biznes-gorod.ru)
 * [ms-parts](http://ms-parts.ru)
-* [test-photoday](https://dmitriikuzaev.github.io/test-photoday)
 * [kombucha-interkvas](https://kombucha-interkvas.ru)
 * [spaquatoria](http://spaquatoria.backupqu.beget.tech)
 * [sos-shop](http://sos-shop.backupqu.beget.tech)
@@ -37,3 +37,4 @@
 * [yut72](http://yut72.ru.test.shaper.space)
 * [erzog](http://gerzog.ru.test.shaper.space)
 * [netshaper](http://netshaper.ru.test.shaper.space)
+* [test-photoday](https://dmitriikuzaev.github.io/test-photoday)
